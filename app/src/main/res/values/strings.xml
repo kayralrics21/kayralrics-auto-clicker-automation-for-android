@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">With your permission, dispatches taps on screen coordinates when a saved visual target is detected. No text is read or transmitted.</string>
+</resources>
